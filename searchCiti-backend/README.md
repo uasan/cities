@@ -13,7 +13,7 @@ npm start
 
 ###List of cities
 ```bash
-GET http://localhost:3000/cities:<searchStr, min 3 symbols>
+GET http://localhost:3001/cities:<searchStr, min 3 symbols>
 ```
 Returns array of matched cities names in json.
 
